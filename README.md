@@ -1,4 +1,4 @@
-![Imagen del proyecto](https://github.com/zparra752.github.io/FotoPerfil.jpg)
+![Imagen del proyecto](https://github.com/zparra75/zparra752.github.io/FotoPerfil.jpg)
 
 # Reset Cusrso UDEMY Basico HTTML y CSS
 
