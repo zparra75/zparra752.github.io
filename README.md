@@ -1,5 +1,5 @@
 ![Imagen del proyecto](https://github.com/zparra75/zparra752.github.io/FotoPerfil.jpg)
-
+<img src="FotoPerfil.jpg" alt="Logo">
 # Reset Cusrso UDEMY Basico HTTML y CSS
 
 Mini Protecyo para estudio de HTTML y CSS agregando imagenes y estilos basicos
