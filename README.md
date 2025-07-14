@@ -1,5 +1,5 @@
 ![Imagen del proyecto] <img src="FotoPerfil.jpg" alt="Logo">
-# Reset Cusrso UDEMY Basico HTTML y CSS
+# Curso UDEMY Basico HTTML y CSS
 
 Mini Protecyo para estudio de HTTML y CSS agregando imagenes y estilos basicos
 
